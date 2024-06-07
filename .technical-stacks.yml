@@ -10,7 +10,7 @@ techstack:
   application:
     - laravel32322:9.52.15
     - laravel23:9.52.15
-    - php:8.0.2
+    - php
     - typescript
     - scss:3.5.1
     - quantest   
