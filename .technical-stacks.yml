@@ -13,5 +13,7 @@ techstack:
     - php:8.0.2
     - typescript
     - scss:3.5.1
-    - quantest 
+    - quantest   
     - react 
+    - react-native  
+    - react-native-web 
