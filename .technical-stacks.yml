@@ -12,7 +12,7 @@ techstack:
     - laravel23:9.52.15
     - php
     - typescript
-    - scss:3.5.1
+    - scss
     - quantest   
     - react 
     - react-native  
