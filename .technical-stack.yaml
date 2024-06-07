@@ -1,0 +1,16 @@
+config:
+  ignore:
+    paths:
+      - /api/public/index.php
+    commits:
+      - 33130af3f2fa6ea746e4358bf9f973510417457813
+    file_extensions:
+      - md
+techstack:
+  application:
+    - laravel32322:9.52.15
+    - laravel23:9.52.15
+    - php:8.0.2
+    - typescript
+    - scss:3.5.1
+    - quantest:
