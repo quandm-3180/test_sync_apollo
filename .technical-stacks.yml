@@ -1,0 +1,5 @@
+techstack:
+  application:
+    - typescript
+    - nuxt:3.5.1
+    - nginx:1.21.6
